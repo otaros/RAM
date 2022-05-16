@@ -1,5 +1,5 @@
 EDA Netlist Writer report for TKLLS
-Sat May 14 17:56:14 2022
+Mon May 16 18:15:58 2022
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Sat May 14 17:56:14 2022 ;
+; EDA Netlist Writer Status ; Successful - Mon May 16 18:15:58 2022 ;
 ; Revision Name             ; TKLLS                                 ;
 ; Top-level Entity Name     ; TKLLS                                 ;
 ; Family                    ; Cyclone II                            ;
@@ -80,12 +80,12 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sat May 14 17:56:11 2022
+    Info: Processing started: Mon May 16 18:15:54 2022
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off TKLLS -c TKLLS
 Info (204019): Generated file TKLLS.vo in folder "C:/Users/huukh/Downloads/TKLLS/simulation/modelsim/" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 4649 megabytes
-    Info: Processing ended: Sat May 14 17:56:15 2022
+    Info: Peak virtual memory: 4648 megabytes
+    Info: Processing ended: Mon May 16 18:15:58 2022
     Info: Elapsed time: 00:00:04
     Info: Total CPU time (on all processors): 00:00:04
 
